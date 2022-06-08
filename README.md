@@ -2,6 +2,18 @@
 
 <h3 align="center">Studying Computer Engineering at<br> College of Engineering, Pune(COEP)</h3>
 
+Hi, I'm Rushikesh 😄, a pre-final year CSE student at College of Engineering, Pune (COEP)
+
+
+<img src="https://github.com/TanmayNikam/TanmayNikam/blob/main/images/dev3.gif" align ="right" width="200px" height="200px">
+<ul align="left" style="list-style-type:none;">
+    <li>Strong understanding of Data Structures and Algorithms</li> 
+    <li>Gained decent Web Development experience by working upon some personal projects</li>
+    <li>Obtained knowledge of Computer Networks and Operating Systems by developing projects</li>
+</ul> 
+
+<br>
+
 ## 🔗 Connect with me:
 <p align="left"><a href="mailto:sanaprushikesh2005@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="c"/></a>
 <a href="https://www.linkedin.com/in/rushikesh-sanap-b2361a229/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="c"/></a>
